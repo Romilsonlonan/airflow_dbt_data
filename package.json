@@ -1,0 +1,12 @@
+{
+  "name": "airflow_dbt_data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["airflow", "dbt", "etl", "npm"],
+  "author": "Romilson",
+  "license": "ISC",
+  "description": ""
+}
